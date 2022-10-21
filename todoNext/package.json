@@ -1,0 +1,48 @@
+{
+  "_comment": {
+    "comment": "package.jsonとは、npmパッケージの設定ファイルです。",
+    "参考": "https://docs.npmjs.com/cli/v7/configuring-npm/package-json"
+  },
+  "name": "todo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "test": "jest",
+    "cypress": "cypress open",
+    "build": "next build",
+    "start": "next start",
+    "comment": "lintとは、コードの品質を保つためのツールです。",
+    "lint": "next lint",
+    "comment_etst": "testとは、//next.jsのテストは、cypressを使用しています。//参照はこちら、https://docs.cypress.io/guides/overview/why-cypress",
+    "comment_utst": "testとは、//next.jsのテストは、jestを使用しています。//参照はこちら：https://jestjs.io/ja/"
+  },
+  "comment1": "dependenciesとは、アプリケーションの実行に必要なパッケージを指定します。",
+  "dependencies": {
+    "@chakra-ui/react": "^2.3.5",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "dotenv": "^16.0.3",
+    "firebase": "^9.12.1",
+    "framer-motion": "^7.5.3",
+    "function": "^0.6.1",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recoil": "^0.7.5",
+    "recoil-persist": "^4.2.0",
+    "typescript": "^4.8.4"
+  },
+  "comment2": "devDependenciesとは、開発時に必要なパッケージを指定します。",
+  "devDependencies": {
+    "@types/react": "18.0.21",
+    "cypress": "^10.10.0",
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1",
+    "jest": "^29.2.0"
+  },
+  "comment3": "bundleDependenciesとは、バンドルするパッケージを指定します。",
+  "bundleDependencies": [
+    "jest"
+  ]
+}

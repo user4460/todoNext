@@ -1,0 +1,125 @@
+0000000000000000000000000000000000000000 c6ad7c629b101dc451bffd691a8071e6ad3a815c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664266021 +0800	clone: from github.com:user4460/todoNext.git
+c6ad7c629b101dc451bffd691a8071e6ad3a815c 402e5989cf2ddef2c7481978343a1481dc6bebb4 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664276522 +0800	commit: init
+402e5989cf2ddef2c7481978343a1481dc6bebb4 bbb5b9e281e6762ec469bf37b9c152ffa2b37958 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664279313 +0800	commit: ページ作成
+bbb5b9e281e6762ec469bf37b9c152ffa2b37958 443cc453248227a9bad34ff4c71b50fc6f943ee6 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664439014 +0800	commit: sign
+443cc453248227a9bad34ff4c71b50fc6f943ee6 c2ce07844b1f947090143eb4315df17ed6740434 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664441852 +0800	commit: id edit create
+c2ce07844b1f947090143eb4315df17ed6740434 1be11b01ae06c5489b7b032b37ce22a2e857b2fc yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664443685 +0800	commit: 設計
+1be11b01ae06c5489b7b032b37ce22a2e857b2fc b866a1484dbfd0241fa3a25b5d3bc7abaade81fb yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664444174 +0800	merge 3faae2bbc8a1ff69da78150dc6205bc039d4cf8b: Merge made by the 'ort' strategy.
+b866a1484dbfd0241fa3a25b5d3bc7abaade81fb 1772b94622cac40fca8bbb4dfef02a4daaa3994c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664449007 +0800	commit: フロント設計
+1772b94622cac40fca8bbb4dfef02a4daaa3994c 2afbfd489e2001fd3bfb144bf1595df69d514938 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664513305 +0800	commit: firebase　コメント
+2afbfd489e2001fd3bfb144bf1595df69d514938 76a3e9f9a90e0211941ea93ba07976691087f803 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664603934 +0800	commit: next
+76a3e9f9a90e0211941ea93ba07976691087f803 6a12ee94e6fd097e03328f770d8da081b3abd2a2 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664623241 +0800	commit: firebase install
+6a12ee94e6fd097e03328f770d8da081b3abd2a2 6233ff874079e22b1ece0c7830ad2d56fd50626f yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664625075 +0800	commit: next
+6233ff874079e22b1ece0c7830ad2d56fd50626f 6233ff874079e22b1ece0c7830ad2d56fd50626f yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664627899 +0800	checkout: moving from main to dev
+6233ff874079e22b1ece0c7830ad2d56fd50626f 85ea496b30604ff8eb3f0fc816f7de8ed7e24c2c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664627920 +0800	commit: env signup
+85ea496b30604ff8eb3f0fc816f7de8ed7e24c2c 6233ff874079e22b1ece0c7830ad2d56fd50626f yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664627937 +0800	checkout: moving from dev to main
+6233ff874079e22b1ece0c7830ad2d56fd50626f 85ea496b30604ff8eb3f0fc816f7de8ed7e24c2c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664678151 +0800	checkout: moving from main to dev
+85ea496b30604ff8eb3f0fc816f7de8ed7e24c2c 704727b834bc29f63153248c4ab8a2f054d29355 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664680259 +0800	commit: next public env
+704727b834bc29f63153248c4ab8a2f054d29355 6233ff874079e22b1ece0c7830ad2d56fd50626f yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664680287 +0800	checkout: moving from dev to main
+6233ff874079e22b1ece0c7830ad2d56fd50626f 704727b834bc29f63153248c4ab8a2f054d29355 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664680308 +0800	checkout: moving from main to dev
+704727b834bc29f63153248c4ab8a2f054d29355 6233ff874079e22b1ece0c7830ad2d56fd50626f yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664680315 +0800	checkout: moving from dev to main
+6233ff874079e22b1ece0c7830ad2d56fd50626f 3a3e39f2a66cde4e4968c860ef211e77fccc815c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664680344 +0800	commit: test
+3a3e39f2a66cde4e4968c860ef211e77fccc815c 1f95214176d81029010053588707668ae849e8ad yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664680366 +0800	merge dev: Merge made by the 'ort' strategy.
+1f95214176d81029010053588707668ae849e8ad e9ed9e6db71a988290b5bdf08181e3073263a920 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664683313 +0800	commit: swap file?
+e9ed9e6db71a988290b5bdf08181e3073263a920 4bd1f8a0b10f7b6a49a5a10d6c9a713afe56e054 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664685213 +0800	commit: 常にgit編集中にするためのファイル
+4bd1f8a0b10f7b6a49a5a10d6c9a713afe56e054 727e012a7b773d1987842911da46bd08cf0d161c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664689947 +0800	commit: signin sign up
+727e012a7b773d1987842911da46bd08cf0d161c 727e012a7b773d1987842911da46bd08cf0d161c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664690062 +0800	checkout: moving from main to devv
+727e012a7b773d1987842911da46bd08cf0d161c 79b1d9e394a1c0c7bbaad123d51b9e95080d637d yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664690092 +0800	commit: mypage
+79b1d9e394a1c0c7bbaad123d51b9e95080d637d 727e012a7b773d1987842911da46bd08cf0d161c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664690105 +0800	checkout: moving from devv to main
+727e012a7b773d1987842911da46bd08cf0d161c 79b1d9e394a1c0c7bbaad123d51b9e95080d637d yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664690151 +0800	checkout: moving from main to devv
+79b1d9e394a1c0c7bbaad123d51b9e95080d637d 727e012a7b773d1987842911da46bd08cf0d161c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664690170 +0800	checkout: moving from devv to main
+727e012a7b773d1987842911da46bd08cf0d161c 1cdf3d7ffc0753b2a7685810255d30636eb8ae49 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664690175 +0800	commit: test
+1cdf3d7ffc0753b2a7685810255d30636eb8ae49 e55689b4acca800a6f14120974670d7b81a5e1a2 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664714198 +0800	commit: recoil install
+e55689b4acca800a6f14120974670d7b81a5e1a2 fb6ba0235a72aa668bbec86c83085aa4dd8118ae yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664714413 +0800	commit: atomJs recoil
+fb6ba0235a72aa668bbec86c83085aa4dd8118ae 9d42b51d37ed5f23be61761096918e528caf059a yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664770595 +0800	merge devv: Merge made by the 'ort' strategy.
+9d42b51d37ed5f23be61761096918e528caf059a 137544a59a150d57d0d6bf932947737c30c9ad4c yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664771107 +0800	commit: mypageで情報を編集
+137544a59a150d57d0d6bf932947737c30c9ad4c 2dbf79832bb3aabb437dd7c8d05857220e42fc85 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664772624 +0800	commit: login signup のコメント
+2dbf79832bb3aabb437dd7c8d05857220e42fc85 49321d593f808c2f46a71c8019f72ce5d70fa32a yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664772971 +0800	commit: topページ編集
+49321d593f808c2f46a71c8019f72ce5d70fa32a 75b19e558d15fd715331aae5167e0f5f40b55bf8 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664773090 +0800	commit: トップページ
+75b19e558d15fd715331aae5167e0f5f40b55bf8 ffba3c878f0d269512a1c33f1685980d7746ca59 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664775103 +0800	commit: googleログイン
+ffba3c878f0d269512a1c33f1685980d7746ca59 100723c25a27f6ce5336ab79297b9a141c7c3465 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664778393 +0800	commit: recoil途中
+100723c25a27f6ce5336ab79297b9a141c7c3465 b03401302577d2b44abcff19e4de2cf6d8574686 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664779905 +0800	commit: logo コメント
+b03401302577d2b44abcff19e4de2cf6d8574686 4844db21817e119c37cc5e5719a89639bf236e63 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664781531 +0800	commit: 常にgit編集中にするためのファイル とコメント
+4844db21817e119c37cc5e5719a89639bf236e63 43c40086b6ed451002f0d79c580eafe427c90c5f yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664798470 +0800	commit: doState recoil
+43c40086b6ed451002f0d79c580eafe427c90c5f 486e315c9e61bf1cdf914eaccdb5492db6d3ace4 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664845376 +0800	commit: コメント書き方
+486e315c9e61bf1cdf914eaccdb5492db6d3ace4 63c75782be4c3b91eac3f89aa7fda603f0938ce1 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664854114 +0800	commit: コメント追加
+63c75782be4c3b91eac3f89aa7fda603f0938ce1 86f715a39d805326ad27fb64629aff44581306b2 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664862322 +0800	commit: footer
+86f715a39d805326ad27fb64629aff44581306b2 6f30d4583a9bf67fc371945dbb3d9fed9392b10b yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664862722 +0800	commit: typescript
+6f30d4583a9bf67fc371945dbb3d9fed9392b10b 394cb020baa33c6ac12d4b063a2aa4f4e6a88264 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664865032 +0800	commit: typescript
+394cb020baa33c6ac12d4b063a2aa4f4e6a88264 6f30d4583a9bf67fc371945dbb3d9fed9392b10b yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664865169 +0800	reset: moving to HEAD~
+6f30d4583a9bf67fc371945dbb3d9fed9392b10b 8ad0a143af77eaecb5c67a24223f0301fc3af63e yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664865181 +0800	commit: typescript
+8ad0a143af77eaecb5c67a24223f0301fc3af63e 6f30d4583a9bf67fc371945dbb3d9fed9392b10b yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664865366 +0800	reset: moving to 6f30d4583a9bf67fc371945dbb3d9fed9392b10b
+6f30d4583a9bf67fc371945dbb3d9fed9392b10b 6f30d4583a9bf67fc371945dbb3d9fed9392b10b yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664865421 +0800	reset: moving to 6f30d4583a9bf67fc371945dbb3d9fed9392b10b
+6f30d4583a9bf67fc371945dbb3d9fed9392b10b daddd2e6b1397e00e9b828279c6a1614f9b29950 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664865458 +0800	commit: Revert "typescript"
+daddd2e6b1397e00e9b828279c6a1614f9b29950 ef585efef549d6e7bc31748fa36405e8eb28ddbd yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664865522 +0800	commit (merge): Merge commit '394cb020baa33c6ac12d4b063a2aa4f4e6a88264'
+ef585efef549d6e7bc31748fa36405e8eb28ddbd 93f1e46ad7a89d8b1efc7cf41e09e2a15d28ef11 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664865815 +0800	commit: env
+93f1e46ad7a89d8b1efc7cf41e09e2a15d28ef11 8855922233c3f3ed3a2472051a3f2f8fbfb85ee9 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664866088 +0800	commit: err
+8855922233c3f3ed3a2472051a3f2f8fbfb85ee9 397301f2e280f7403ffd2bdba6681256a4462470 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664866265 +0800	commit: comment
+397301f2e280f7403ffd2bdba6681256a4462470 30fd16b82b43088eb5623475e36f637a76069620 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664866433 +0800	commit: gitignore
+30fd16b82b43088eb5623475e36f637a76069620 b05aaa5251dd40ed0f0ca0c72f08d086184a04ba yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664866596 +0800	commit: ignore
+b05aaa5251dd40ed0f0ca0c72f08d086184a04ba e758be867d784ee9ee45f50d7f0706ddb022de37 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664869728 +0800	commit: env
+e758be867d784ee9ee45f50d7f0706ddb022de37 8f3251c5f30cff93a3ad13a055ada9d4e3490796 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664870406 +0800	commit: test
+8f3251c5f30cff93a3ad13a055ada9d4e3490796 dedbf80817fdd385c5f3a3939717c0027ab80781 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664939877 +0800	commit: recoil
+dedbf80817fdd385c5f3a3939717c0027ab80781 d2d4e04f3b7b7ef425adce7b4cb20b8af8716bd4 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664942245 +0800	commit: db
+d2d4e04f3b7b7ef425adce7b4cb20b8af8716bd4 886c61069389f96033de550ec974d4d01f8a0c6a yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664943357 +0800	commit: env コメント
+886c61069389f96033de550ec974d4d01f8a0c6a c4d8822e7e4d00fb2c5b90d43e87678b5701e9b4 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664948973 +0800	commit: comment
+c4d8822e7e4d00fb2c5b90d43e87678b5701e9b4 a7b37c72acbc60ac5f96467873dfa51af15b041a yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664949923 +0800	commit: コメント
+a7b37c72acbc60ac5f96467873dfa51af15b041a 48c2054e3c07d21a590d6fc85b5f93a69e6a0441 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664950752 +0800	commit: typescript
+48c2054e3c07d21a590d6fc85b5f93a69e6a0441 fd561888f1bf9d0d8d5d5e5baf69da2b0bcf498a yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664951068 +0800	commit: eslint appJs
+fd561888f1bf9d0d8d5d5e5baf69da2b0bcf498a 5821bb064bd8ee3342ef6df07266ceac38204e1a yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664951247 +0800	commit: firebase
+5821bb064bd8ee3342ef6df07266ceac38204e1a 360a9d00f9db96a5aab92a9a9b8793c20361e8cb yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664951618 +0800	commit: typescript
+360a9d00f9db96a5aab92a9a9b8793c20361e8cb 472b0a7a849df0f83b0ab0cac34851c7a6882c5e yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664951757 +0800	commit: err
+472b0a7a849df0f83b0ab0cac34851c7a6882c5e d02db7bc13ab491518d06d4d3ab59003254ebfdf yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664951937 +0800	commit: user
+d02db7bc13ab491518d06d4d3ab59003254ebfdf de3f400a3239ce6449b4c0bff1227cfa324c6685 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664952059 +0800	commit: user
+de3f400a3239ce6449b4c0bff1227cfa324c6685 95cfe3f2afba0cfb7ab7d99cd4d677bc010ec4d5 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664967719 +0800	commit: type
+95cfe3f2afba0cfb7ab7d99cd4d677bc010ec4d5 cb68a70775dff95e95aeb0369de1967a396496e5 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664967919 +0800	commit: js
+cb68a70775dff95e95aeb0369de1967a396496e5 baadfaab2c81b3f157f4e0df9be6abd0cab51d19 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1664971425 +0800	commit: firestoreへのcrud
+baadfaab2c81b3f157f4e0df9be6abd0cab51d19 b25b9c3cf63aaa3d143f9cd9603b32bdcd3b6aaa yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665014392 +0800	commit: コメント
+b25b9c3cf63aaa3d143f9cd9603b32bdcd3b6aaa 0e69af84ed32bcced6fd84a11a91dd23a058bbbb yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665372846 +0800	commit: firebase init
+0e69af84ed32bcced6fd84a11a91dd23a058bbbb e3da539ac87a72ba5949df061593197654a598b5 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665376075 +0800	commit: firebase系のconfigの確認
+e3da539ac87a72ba5949df061593197654a598b5 9e5535f8e5b1d4140cc0fb6b4dcc86fc0c4904a4 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665377204 +0800	commit: コメント　参考
+9e5535f8e5b1d4140cc0fb6b4dcc86fc0c4904a4 2b3cd7d85d3002548a75305c5002f1f9df8bd0ec yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665378988 +0800	commit: todo chakraUI　追加
+2b3cd7d85d3002548a75305c5002f1f9df8bd0ec b94fa2bb18a1b89caa7f658b14210fe1e2407762 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665391520 +0800	commit: cssのコメント
+b94fa2bb18a1b89caa7f658b14210fe1e2407762 1ec3169eb58200cc952161e7e6f3b0e29fa6658d yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665463812 +0800	commit: firestore
+1ec3169eb58200cc952161e7e6f3b0e29fa6658d 00ebbece071e343b0bc5fcc4257c8b6b594088b8 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665483426 +0800	commit: strict false
+00ebbece071e343b0bc5fcc4257c8b6b594088b8 39319f024e7cf44b2834efbcef3fa49bab19b480 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665483661 +0800	commit: ts config
+39319f024e7cf44b2834efbcef3fa49bab19b480 7c60e7ca90425b81a5065b9aad944c38b477f678 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665485976 +0800	commit: ファイル　削除
+7c60e7ca90425b81a5065b9aad944c38b477f678 f1c7d534162701ff2a74cc7475528210b9549bc1 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665490187 +0800	commit: recolとrecolizeのテスト系を削除
+f1c7d534162701ff2a74cc7475528210b9549bc1 787916f01fb854ffc050a418d01a4348de8988d6 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665557160 +0800	commit: nextjs tsの設定
+787916f01fb854ffc050a418d01a4348de8988d6 387b3faf6cad82e9ddc6ecf4f6d1110db33895f4 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665557592 +0800	commit: pages
+387b3faf6cad82e9ddc6ecf4f6d1110db33895f4 2c525185e60d229e916cb7fb853d9b2846323650 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665557830 +0800	commit: err
+2c525185e60d229e916cb7fb853d9b2846323650 2f734e046c87a5ae9a9c778f6d330edcd3ed1e98 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665558137 +0800	commit: コメ　chakra
+2f734e046c87a5ae9a9c778f6d330edcd3ed1e98 4b5bd2086e64253ca068db3d36f77c60bb89cb14 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665558324 +0800	commit: chakraui
+4b5bd2086e64253ca068db3d36f77c60bb89cb14 973910118ce214f0968c04d18f58cd2dbdaada81 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665558416 +0800	commit: err
+973910118ce214f0968c04d18f58cd2dbdaada81 1238b9a50dc16a92f34c1f9627782c216ac36e8d yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665558614 +0800	commit: atom
+1238b9a50dc16a92f34c1f9627782c216ac36e8d b05c7d8066cbccef41e05a83923435178f833c5b yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665558757 +0800	commit: err
+b05c7d8066cbccef41e05a83923435178f833c5b aab36afefca5a6d0c00e802fec888e7cb4726c51 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665559378 +0800	commit: ファイル削除
+aab36afefca5a6d0c00e802fec888e7cb4726c51 1f1c0d1514cd89465cb1051892f6cd20af4e56d7 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665591070 +0800	commit: delete ファイル
+1f1c0d1514cd89465cb1051892f6cd20af4e56d7 21b4ddd099f6b4430f941791e62aa3e5a678e5a0 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665631907 +0800	commit: filter sort
+21b4ddd099f6b4430f941791e62aa3e5a678e5a0 cd1aa06b8669ef49eb5e66e46ce567b36dc7e2ed yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665639130 +0800	commit: test
+cd1aa06b8669ef49eb5e66e46ce567b36dc7e2ed d7c8c4aa44be1c0f59dcdae48987942d9f190f1b yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665724933 +0800	commit: npm install
+d7c8c4aa44be1c0f59dcdae48987942d9f190f1b 632903c694f0a17fb1ff0f9bd0d73de3607404a6 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665759826 +0800	commit: コメント
+632903c694f0a17fb1ff0f9bd0d73de3607404a6 502fed5e4b3b91da05ad5fbdc0d7c737acf0cdbb yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665802635 +0800	commit: cypress
+502fed5e4b3b91da05ad5fbdc0d7c737acf0cdbb d86262251e80959bff3f52b821c1d72b523fbe08 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665803518 +0800	commit: cypress
+d86262251e80959bff3f52b821c1d72b523fbe08 1ff461e4f5fb43c76184363251a994432b56349a yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665835024 +0800	commit: v10
+1ff461e4f5fb43c76184363251a994432b56349a 301048fb7b288f37e3b458eb4ff16272b3b0fb32 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665885047 +0800	commit: jest test
+301048fb7b288f37e3b458eb4ff16272b3b0fb32 3de83849597e50df250925ee7317d1138152fa8d yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665887090 +0800	commit: delete api
+3de83849597e50df250925ee7317d1138152fa8d 85637d6ec5f7b9d9abae50657b53c8995ba2c50b yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665900538 +0800	commit: test
+85637d6ec5f7b9d9abae50657b53c8995ba2c50b afc75c992888c185863512bbe7cdecbece3db6e8 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1665978185 +0800	commit: todo test
+afc75c992888c185863512bbe7cdecbece3db6e8 721c8942fead0de6b0cc36f5f631035305bca064 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666019535 +0800	commit: todos
+721c8942fead0de6b0cc36f5f631035305bca064 154bfbcca05ac57d75e95f2882629ec5c4aad1ff yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666060438 +0800	commit: signup
+154bfbcca05ac57d75e95f2882629ec5c4aad1ff cfbc9865b13440be2bd5debd3238a3e48f221569 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666076092 +0800	commit: cypress install
+cfbc9865b13440be2bd5debd3238a3e48f221569 8128fa10b4c57d428b4b27f984d54c32c0f9b5ba yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666076655 +0800	commit: jest
+8128fa10b4c57d428b4b27f984d54c32c0f9b5ba d2c133724454625e2e8ab52bc861a75ef5c07f72 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666077145 +0800	commit: jest
+d2c133724454625e2e8ab52bc861a75ef5c07f72 9cdc89792e428de4d2757df4b9979cc933364c4e yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666080134 +0800	commit: comand
+9cdc89792e428de4d2757df4b9979cc933364c4e 245b736fecfbc4eab7696a23cbce1dc08fa2299e yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666103799 +0800	commit: jest
+245b736fecfbc4eab7696a23cbce1dc08fa2299e 940068a9917b1c53598e8260206c59d300c2902e yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666145545 +0800	commit: test
+940068a9917b1c53598e8260206c59d300c2902e 2f1432dc6188f42f22502c0effd89b52b11674ab yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666166440 +0800	commit: コメント
+2f1432dc6188f42f22502c0effd89b52b11674ab 6ff019b3bfe1d87621cffac4489587d4d0b0dd56 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666189875 +0800	commit: codecov
+6ff019b3bfe1d87621cffac4489587d4d0b0dd56 b445fd8e7bd7598870d5d629ac6412057055c027 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666230504 +0800	commit: plugin
+b445fd8e7bd7598870d5d629ac6412057055c027 ac8bc0bdb89f662f5e0acb2b5bc9e182ee5648f5 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666262195 +0800	commit: test
+ac8bc0bdb89f662f5e0acb2b5bc9e182ee5648f5 39cf01905c58fca8b0023f5e0241bced0ac16809 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666316544 +0800	commit: firebase env
+39cf01905c58fca8b0023f5e0241bced0ac16809 5a55b6085c7174b51151ddeabec73f50eec46491 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666329276 +0800	commit: コメント
+5a55b6085c7174b51151ddeabec73f50eec46491 8b9c98be5bd55d23a7755ab7dc3601d35e60e84b yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666362087 +0800	commit: 削除
+8b9c98be5bd55d23a7755ab7dc3601d35e60e84b 0696f61a12fed78a25498a24d5aea10f519d4737 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666363419 +0800	reset: moving to 0696f61a12fed78a25498a24d5aea10f519d4737
+0696f61a12fed78a25498a24d5aea10f519d4737 1f2f2025c66aee48f8e848382740f2729dbb2653 yoshiaki.n <52188314+user4460@users.noreply.github.com> 1666363481 +0800	commit: restart

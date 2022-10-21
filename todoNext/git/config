@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/user4460/todoNext.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = https://github.com/user4460/todoNext.git
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
